@@ -1,3 +1,7 @@
+# Install pheatmap library in R
+# R
+# install.packages('pheatmap')
+
 ### set parameters
 para_file1=01a2_S3V2_IDEAS_hg38_r1_rmh_rerun2.para.modified.para
 para_file2=06a_S3V2_IDEAS_hg38_r3_withHg38Mm10prior.para.modified.para
